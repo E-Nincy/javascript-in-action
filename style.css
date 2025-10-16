@@ -4,8 +4,8 @@ html {
   text-align: justify;
   width: 70%;
   max-width: 900px;
-  background-color: white;
-  color: black;
+  background-color: rgba(54, 191, 255, 0.418);
+  color: rgb(2, 0, 129);
   font-size: 12px;
   font-family: Roboto, Arial, Helvetica, sans-serif;
 }
